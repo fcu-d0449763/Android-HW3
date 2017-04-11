@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="action_settings">Settings</string>
+    <string name="SayHello">Say Hello</string>
+    <string name="title_activity_say_hello">Homework3</string>
+    <string name="Back">Back</string>
+</resources>
